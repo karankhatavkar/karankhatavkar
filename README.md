@@ -1,4 +1,7 @@
-# Hello there 👋
+# Hello There :wave:
+#### Have a nice day ahead !
+### CHEARS ! :clinking_glasses:
+
 
 <!--
 **karankhatavkar/karankhatavkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
