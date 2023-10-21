@@ -1,6 +1,6 @@
 # Hello There :wave:
-#### Have a nice day ahead !
-### CHEARS ! :clinking_glasses:
+#### Work in progress... Since forever :/
+
 
 
 <!--
