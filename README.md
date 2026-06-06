@@ -48,7 +48,7 @@ Available for project work and client collaborations. [work.karankh@gmail.com](m
 | Project | Description | Stack |
 |---|---|---|
 | [mini-xVal](https://github.com/karankhatavkar/mini-xVal) | ML research experiments | Python · Jupyter |
-| [Founders Court](https://github.com/karankhatavkar/founders-court) | Adversarial tribunal for stress-testing business ideas | HTML |
+| [Founders Court](https://github.com/karankhatavkar/founders-court) | Claude skill — adversarial tribunal for stress-testing business ideas | Claude |
 | [Diabetes Prediction System](https://github.com/karankhatavkar/diabetes-prediction-system) | KNN-based predictor deployed as a web app | Python · Scikit-learn · FastAPI |
 | [Spam Email Classifier](https://github.com/karankhatavkar/spam-email-classification) | Naive Bayes classifier deployed as a web app | Python · Scikit-learn · FastAPI |
 | [DTMF Robot](https://github.com/karankhatavkar/dtmf-robot) | DTMF-controlled robot | C++ |
