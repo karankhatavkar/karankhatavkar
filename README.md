@@ -2,54 +2,61 @@
 
 # Karan Khatavkar
 
-LLM &amp; ML Engineer · Pune, India
+### Building LLM apps, agents, and ML models for clients
+
+Freelance ML / LLM Engineer &nbsp;·&nbsp; Master's in AI/ML &nbsp;·&nbsp; Pune, India
 
 <a href="https://www.linkedin.com/in/karan-khatavkar/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
 <a href="mailto:work.karankh@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
-I work with language models and train ML systems end to end. Most of my recent work is LLM-side: agent skills, fine-tuned transformers for domain NLP, and RAG pipelines for clients. The rest is applied deep learning on signals, images, and tabular data.
-
-Freelance and available for project work. Master's in AI/ML. Reach me at [work.karankh@gmail.com](mailto:work.karankh@gmail.com).
-
-## LLM &amp; NLP
-
-**[Founder's Court](https://github.com/karankhatavkar/founders-court).** A Claude Agent Skill that puts a business idea through a five-stage tribunal and returns one verdict, APPROVED or DENIED, with a written case report. The pass rate sits around 25%. Installs in Claude Code, claude.ai, or through the Skills API.
-
-**[BioBERT Medical NER](https://github.com/karankhatavkar/biobert-medical-ner).** Fine-tuned BioBERT to tag clinical entities in case reports: symptoms, diseases, medications, dosages, lab values. 78 BIO labels over the MACCROBAT dataset, in PyTorch and Hugging Face, with both notebook and script paths and entity-level metrics.
-
-## Deep learning &amp; ML
-
-**[Alzheimer's Detection from EEG](https://github.com/karankhatavkar/alzheimer-eeg-classification).** Four tracks: spectrogram CNNs with attention (CBAM, squeeze-and-excitation, self-attention), PSD features with SHAP, and a clinical tabular model in R. Saliency maps and SHAP for interpretability.
-
-**[VAE Image Restoration](https://github.com/karankhatavkar/variational-autoencoders-image-restoration).** Variational autoencoders for image inpainting, built up across MNIST, COCO, and CelebA. Reconstructions scored with PSNR and SSIM, with latent-space walks to check the codes mean something.
-
-**[Acoustic RUL](https://github.com/karankhatavkar/ak47-acoustic-rul).** Remaining-useful-life from audio. A digital-twin simulator generates run-to-failure data, then three models compete: XGBoost on hand-crafted features, a 2D CNN on scalogram images, a 1D CNN on raw waveforms. Dataset published on Hugging Face.
-
-**[Predictive Maintenance: Bearings &amp; Tool Wear](https://github.com/karankhatavkar/predictive-maintenance-bearing-tool-wear).** Remaining-useful-life prediction on NASA IMS bearings and PHM 2010 CNC tool wear. Every model is validated leave-one-out: trained on one machine, tested on a different one with a different failure mode. Traditional ML, CNN-LSTM, and TCN, with results tables for each.
-
-**[Customer Churn ANN](https://github.com/karankhatavkar/customer-churn-ann).** A feedforward net predicting bank customer churn, about 86% on 10K records, wrapped in a Streamlit app for live predictions.
-
-
+I build with language models and train ML systems end to end: agent skills, fine-tuned transformers for domain NLP, RAG pipelines, and deep learning on signals and images. Currently taking on LLM and ML projects.
 
 ## Stack
 
-Python · PyTorch · TensorFlow/Keras · Hugging Face Transformers · scikit-learn · XGBoost · pandas · NumPy · Streamlit · FastAPI
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+</p>
+<p>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logo=&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
+<p>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
 
-I also work in TypeScript and JavaScript on the product side.
+## Projects
 
----
+**LLM &amp; NLP**
 
-<div align="center">
+| Project | What it does | Tech |
+|---|---|---|
+| [Founder's Court](https://github.com/karankhatavkar/founders-court) | Claude Agent Skill that judges a startup idea across five stages and returns one verdict. ~25% pass rate. | Claude · Agent Skills |
+| [BioBERT Medical NER](https://github.com/karankhatavkar/biobert-medical-ner) | Fine-tuned BioBERT to tag clinical entities (symptoms, drugs, dosages) in case reports. | PyTorch · Hugging Face |
 
-For client work: [work.karankh@gmail.com](mailto:work.karankh@gmail.com)
+**Deep learning &amp; ML**
 
-</div>
+| Project | What it does | Tech |
+|---|---|---|
+| [Alzheimer's Detection from EEG](https://github.com/karankhatavkar/alzheimer-eeg-classification) | Spectrogram CNNs with attention plus PSD/SHAP across four tracks, with saliency-map interpretability. | TensorFlow · SHAP |
+| [VAE Image Restoration](https://github.com/karankhatavkar/variational-autoencoders-image-restoration) | Variational autoencoders for inpainting on MNIST, COCO, and CelebA. Scored with PSNR and SSIM. | TensorFlow · Keras |
+| [Acoustic RUL](https://github.com/karankhatavkar/ak47-acoustic-rul) | Remaining-useful-life from audio using a digital-twin simulator. Three models: XGBoost, 2D CNN, 1D CNN. | PyTorch · XGBoost |
+| [Predictive Maintenance](https://github.com/karankhatavkar/predictive-maintenance-bearing-tool-wear) | RUL on NASA bearings and PHM tool wear, validated on unseen machines with different failure modes. | PyTorch · CNN-LSTM · TCN |
+| [Customer Churn ANN](https://github.com/karankhatavkar/customer-churn-ann) | Feedforward net (~86%) predicting bank churn, served through a Streamlit app. | TensorFlow · Streamlit |
