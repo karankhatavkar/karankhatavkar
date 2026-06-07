@@ -60,6 +60,16 @@ I build LLM systems for clients: agents, RAG pipelines, and fine-tuned NLP, back
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
+## Certifications
+
+<p>
+<img src="https://img.shields.io/badge/Azure-AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure-AI--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure-DP--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+</p>
+
+Azure Fundamentals (AZ-900) · Azure AI Fundamentals (AI-900) · Azure Data Fundamentals (DP-900)
+
 ## Projects
 
 **LLM &amp; NLP**
@@ -116,13 +126,3 @@ I build LLM systems for clients: agents, RAG pipelines, and fine-tuned NLP, back
 <td>ANN · Streamlit</td>
 </tr>
 </table>
-
-## Certifications
-
-<p>
-<img src="https://img.shields.io/badge/Azure-AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure-AI--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure-DP--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-</p>
-
-Azure Fundamentals (AZ-900) · Azure AI Fundamentals (AI-900) · Azure Data Fundamentals (DP-900)
