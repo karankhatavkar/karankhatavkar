@@ -18,7 +18,7 @@ Freelance ML / LLM Engineer &nbsp;·&nbsp; Master's in AI/ML &nbsp;·&nbsp; Pune
 
 ---
 
-I build LLM features and train ML models for clients. Agent skills and fine-tuned NLP lately, with a deep learning background in signals and imaging.
+I build LLM systems for clients: agents, RAG pipelines, and fine-tuned NLP, backed by a deep learning background in signals and imaging. Available for freelance and contract work.
 
 ## Stack
 
