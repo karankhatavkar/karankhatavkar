@@ -1,8 +1,8 @@
 <div align="center">
 
-<h1>Karan Khatavkar</h1>
+# Karan Khatavkar
 
-<p>AI / LLM Engineer &nbsp;·&nbsp; Pune, India</p>
+LLM &amp; ML Engineer · Pune, India
 
 <a href="https://www.linkedin.com/in/karan-khatavkar/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -16,44 +16,38 @@
 
 ---
 
-## About
+I work with language models and train ML systems end to end. Most of my recent work is LLM-side: agent skills, fine-tuned transformers for domain NLP, and RAG pipelines for clients. The rest is applied deep learning on signals, images, and tabular data.
 
-I build LLM applications, RAG pipelines, and ML models. Currently freelancing, with a Master's in AI/ML.
+Freelance and available for project work. Master's in AI/ML. Reach me at [work.karankh@gmail.com](mailto:work.karankh@gmail.com).
 
-Available for project work and client collaborations. [work.karankh@gmail.com](mailto:work.karankh@gmail.com)
+## LLM &amp; NLP
 
----
+**[Founder's Court](https://github.com/karankhatavkar/founders-court).** A Claude Agent Skill that puts a business idea through a five-stage tribunal and returns one verdict, APPROVED or DENIED, with a written case report. The pass rate sits around 25%. Installs in Claude Code, claude.ai, or through the Skills API.
+
+**[BioBERT Medical NER](https://github.com/karankhatavkar/biobert-medical-ner).** Fine-tuned BioBERT to tag clinical entities in case reports: symptoms, diseases, medications, dosages, lab values. 78 BIO labels over the MACCROBAT dataset, in PyTorch and Hugging Face, with both notebook and script paths and entity-level metrics.
+
+## Deep learning &amp; ML
+
+**[Predictive Maintenance: Bearings &amp; Tool Wear](https://github.com/karankhatavkar/predictive-maintenance-bearing-tool-wear).** Remaining-useful-life prediction on NASA IMS bearings and PHM 2010 CNC tool wear. Every model is validated leave-one-out: trained on one machine, tested on a different one with a different failure mode. Traditional ML, CNN-LSTM, and TCN, with results tables for each.
+
+**[Alzheimer's Detection from EEG](https://github.com/karankhatavkar/alzheimer-eeg-classification).** Four tracks: spectrogram CNNs with attention (CBAM, squeeze-and-excitation, self-attention), PSD features with SHAP, and a clinical tabular model in R. Saliency maps and SHAP for interpretability.
+
+**[VAE Image Restoration](https://github.com/karankhatavkar/variational-autoencoders-image-restoration).** Variational autoencoders for image inpainting, built up across MNIST, COCO, and CelebA. Reconstructions scored with PSNR and SSIM, with latent-space walks to check the codes mean something.
+
+**[Customer Churn ANN](https://github.com/karankhatavkar/customer-churn-ann).** A feedforward net predicting bank customer churn, about 86% on 10K records, wrapped in a Streamlit app for live predictions.
+
+**[Acoustic RUL](https://github.com/karankhatavkar/ak47-acoustic-rul).** Remaining-useful-life from audio. A digital-twin simulator generates run-to-failure data, then three models compete: XGBoost on hand-crafted features, a 2D CNN on scalogram images, a 1D CNN on raw waveforms. Dataset published on Hugging Face.
 
 ## Stack
 
-**Languages**
+Python · PyTorch · TensorFlow/Keras · Hugging Face Transformers · scikit-learn · XGBoost · pandas · NumPy · Streamlit · FastAPI
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-
-**AI / ML**
-
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+I also work in TypeScript and JavaScript on the product side.
 
 ---
 
-## Projects
+<div align="center">
 
-| Project | Description | Stack |
-|---|---|---|
-| [mini-xVal](https://github.com/karankhatavkar/mini-xVal) | ML research experiments | Python · Jupyter |
-| [Founders Court](https://github.com/karankhatavkar/founders-court) | Claude skill — adversarial tribunal for stress-testing business ideas | Claude |
-| [Diabetes Prediction System](https://github.com/karankhatavkar/diabetes-prediction-system) | KNN-based predictor deployed as a web app | Python · Scikit-learn · FastAPI |
-| [Spam Email Classifier](https://github.com/karankhatavkar/spam-email-classification) | Naive Bayes classifier deployed as a web app | Python · Scikit-learn · FastAPI |
-| [DTMF Robot](https://github.com/karankhatavkar/dtmf-robot) | DTMF-controlled robot | C++ |
-| [Cloud-Based Announcement System](https://github.com/karankhatavkar/Cloud-Based-Inter-College-Announcement-System) | Inter-college announcement platform | Java |
+For client work: [work.karankh@gmail.com](mailto:work.karankh@gmail.com)
 
----
-
-<!-- Add: portfolio, case studies, certifications -->
+</div>
