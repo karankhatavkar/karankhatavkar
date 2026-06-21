@@ -95,6 +95,11 @@ Azure Fundamentals (AZ-900) · Azure AI Fundamentals (AI-900) · Azure Data Fund
 <td>Fine-tuned BioBERT to tag clinical entities (symptoms, drugs, dosages) in case reports.</td>
 <td>PyTorch · Hugging Face</td>
 </tr>
+<tr>
+<td><a href="https://github.com/karankhatavkar/premarket-brief">Premarket Brief</a></td>
+<td>n8n automation that sends Hindi stock-market YouTube videos directly to Gemini (multimodal — audio + on-screen visuals) and emails a structured English pre-market brief every morning.</td>
+<td>n8n · Gemini 2.5 Flash · YouTube Data API · Gmail</td>
+</tr>
 </table>
 
 **Deep learning &amp; ML**
