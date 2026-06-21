@@ -82,7 +82,7 @@ Azure Fundamentals (AZ-900) · Azure AI Fundamentals (AI-900) · Azure Data Fund
 </tr>
 <tr>
 <td><a href="https://github.com/karankhatavkar/edgarbrief">EdgarBrief</a></td>
-<td>Production RAG system — PDFs are chunked, embedded with Gemini, and retrieved via hybrid pgvector + full-text search to answer questions in a real-time streaming chat UI.</td>
+<td>Production RAG system — PDFs are chunked, embedded with Gemini, and retrieved via hybrid pgvector + full-text search to answer questions in a real-time streaming chat UI. <a href="https://edgarbrief.karankh.tech">Live ↗</a></td>
 <td>RAG · pgvector · Gemini · FastAPI · React · Supabase</td>
 </tr>
 <tr>
