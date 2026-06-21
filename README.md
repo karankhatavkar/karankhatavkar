@@ -81,6 +81,11 @@ Azure Fundamentals (AZ-900) · Azure AI Fundamentals (AI-900) · Azure Data Fund
 <th width="22%" align="left">Tech</th>
 </tr>
 <tr>
+<td><a href="https://github.com/karankhatavkar/edgarbrief">EdgarBrief</a></td>
+<td>Production RAG system — PDFs are chunked, embedded with Gemini, and retrieved via hybrid pgvector + full-text search to answer questions in a real-time streaming chat UI.</td>
+<td>RAG · pgvector · Gemini · FastAPI · React · Supabase</td>
+</tr>
+<tr>
 <td><a href="https://github.com/karankhatavkar/founders-court">Founder's Court</a></td>
 <td>Claude Agent Skill that judges a startup idea across five stages and returns one verdict. ~25% pass rate.</td>
 <td>Claude · Agent Skills</td>
